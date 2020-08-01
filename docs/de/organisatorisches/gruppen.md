@@ -6,7 +6,7 @@ Als Spieler muss man nicht alle diese Gruppen durchlaufen. Wir haben durchaus St
 
 ## Gastspieler
 
-Gastspieler dürfen bei unseren normalen Spieltagen mitspielen. Den Gastspieler Status verliert man eigentlich nie. Es kann aber durchaus nach langer Inaktivität ein erneuter Techcheck gefordert werden. 
+Gastspieler dürfen bei unseren normalen Spieltagen mitspielen. Den Gastspieler Status verliert man eigentlich nie. Es kann aber durchaus nach langer Inaktivität ein erneuter Techcheck gefordert werden. Gastspieler haben auch das Recht Missionen anzubieten. Dies sollte aber vohrer mit einem Adler abgeklärt werden um Missverständnise zu vermeiden.
 
 ### Minimale Vorraussetzungen
 * Größtenteils vollständige Vorstellung im Forum
@@ -21,7 +21,7 @@ Gastspieler dürfen bei unseren normalen Spieltagen mitspielen. Den Gastspieler 
 ## Stammspieler
 
 Stammspieler sind gern gesehen Gastspieler, welche regelmäßig mitspielen. Zusätzlich zu den unseren normalen Spieltagen können sie zu **externen Events**, bei welchen wir noch Unterstützung brauchen, eingeladen werden. Außerdem können Sie eigenständig Missionen im öffentlichen Forum einstellen. 
-Bei längere Inaktivität kann der Stammspieler Status einem Spieler entzogen werden.
+Bei einer Inaktivität von mehr als 6 Monaten wird der Stammspieler Status einem Spieler entzogen.
 
 ### Stammspieler werden
 Ein Gastspieler wird zum Stammspieler, wenn er von einem Adler als solcher vorgeschlagen wird und drei weitere Adler zustimmen.  
